@@ -4,10 +4,6 @@
 
 #### _A website about 3 greatest Zoo in the USA_
 
-#### _Link on GitHub pages:
-https://github.com/liliia87/Zoo-webpage.git
-https://liliia87.github.io/Zoo-webpage/
-
 ## Technologies Used
 * _Html_
 * _Markdown_
